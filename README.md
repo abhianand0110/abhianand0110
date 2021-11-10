@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Abhishek Anand</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -12,16 +11,27 @@
 
 - 👨‍💻 All of my projects are available at [https://abhianand0110.github.io/](https://abhianand0110.github.io/)
 
+- 💬 Ask me about **Web Development and Competitive coding**
+
+- 📫 How to reach me **abhianand2308@gmail.com**
+
 - 📄 Know about my experiences [https://abhianand0110.github.io/Resume/](https://abhianand0110.github.io/Resume/)
+
+- ⚡ Fun fact **I laugh too much**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/_abhi0011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="_abhi0011" height="30" width="40" /></a>
 <a href="https://twitter.com/2308abhishek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="2308abhishek" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhishek-anand-1358891b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-anand-1358891b6" height="30" width="40" /></a>
 <a href="https://instagram.com/abhi.anand.57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhi.anand.57" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uchjqinbodbqtbae2a7brbjg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uchjqinbodbqtbae2a7brbjg" height="30" width="40" /></a>
+<a href="https://medium.com/@abhianand2308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abhianand2308" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uchjqinbodbqtbae2a7brbjg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uchjqinbodbqtbae2a7brbjg" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/anand_2308" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anand_2308" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abhianand2308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhianand2308" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/abhianand2308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abhianand2308" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abhianand2308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhianand2308" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/abhianand2308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhianand2308" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
