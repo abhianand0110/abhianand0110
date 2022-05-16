@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **abhianand2308@gmail.com**
 
-- 📄 Know about my experiences [https://abhianand0110.github.io/Resume/](https://abhianand0110.github.io/Resume/)
-
 - ⚡ Fun fact **I laugh too much**
 
 <h3 align="left">Connect with me:</h3>
