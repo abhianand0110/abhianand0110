@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [https://abhianand0110.github.io/](https://abhianand0110.github.io/)
+- 👨‍💻 All of my projects are available at [https://abhishekanand0.netlify.app/](https://abhishekanand0.netlify.app/)
 
 - 💬 Ask me about **Web Development and Competitive coding**
 
