@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Anand</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhianand0110&label=Profile%20views&color=0e75b6&style=flat" alt="abhianand0110" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/2308abhishek" target="blank"><img src="https://img.shields.io/twitter/follow/2308abhishek?logo=twitter&style=for-the-badge" alt="2308abhishek" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 Currently working in TCS as a **Java Developer**
 
 - 👨‍💻 All of my projects are available at [https://abhishekanand0.netlify.app/](https://abhishekanand0.netlify.app/)
 
